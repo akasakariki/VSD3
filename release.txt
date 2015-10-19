@@ -1,0 +1,7 @@
+（旧）Japan Relational Digital Service Network　プログラム開発部　担当：時雨四季
+（現）Planetarium プログラム開発　担当：朱坂理樹
+当ソフトウェアおよび、ソースの著作権はJapan Relational Digital Service Networkにあります。
+当ソース等の公開および、転載は硬く禁じます。
+
+＝＝リリース情報＝＝
+開発中・・・

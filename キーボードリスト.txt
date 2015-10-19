@@ -1,0 +1,51 @@
+TENKEY_PLUS				テンキーの[+]
+TENKEY_DOT				テンキーの[.]
+TENKEY_SLASH			テンキーの[/]
+TENKEY_ASTERISK			テンキーの[*]
+TENKEY_ENTER			テンキーの[ENTER]
+TENKEY_MINUS			テンキーの[-]
+TENKEY_0~9				テンキーの[0]~[9]
+KEY_A~Z					キーボードの[A]~[Z]
+KEY_EQUALS				キーボードの[=]
+KEY_COMMA				キーボードの[,]
+KEY_GRAVE				キーボードの[@][`]キー
+KEY_LBRACKET			キーボードの[[]キー
+KEY_RBRACKET			キーボードの[]]キー
+KEY_PERIOD				キーボードの[.]キー
+KEY_SEMICOLON			キーボードの[;]キー
+KEY_SLASH				キーボードの[/]キー
+KEY_YEN					キーボードの[\]キー
+KEY_APPS				キーボードのアプリケーションキー
+KEY_BACKSP				キーボードのバックスペース
+KEY_CAPSLOCK			キーボードのCAPSLOCK
+KEY_DELETE				キーボードのデリートキー
+KEY_END					エンドキー
+KEY_ESCAPE				エスケープキー
+KEY_HOME				ホームキー
+KEY_INSERT				インサートキー
+KEY_LCONTROL			レフトコントロールキー
+KEY_LALT				レフトaltキー
+KEY_LSHIFT				レフトシフトキー
+KEY_LWIN				レフトウィンドウズキー
+KEY_RCONTROL			ライトコントロールキー
+KEY_LALT				ライトaltキー
+KEY_LSHIFT				ライトシフトキー
+KEY_LWIN				ライトウィンドウズキー
+KEY_RETURN				エンターキー
+KEY_PGDOWN				PageDownキー
+KEY_PGUP				PageUpキー
+KEY_SCROLL				ScrollLockキー
+KEY_NUMLOCK				NumLockキー
+KEY_PAUSE				Pause/Breakキー
+KEY_SPACE				スペースキー
+KEY_SYSRQ				PrintScreen/SysRqキー
+KEY_TAB					Tabキー
+
+
+
+KEY_F1~F15				ファンクションキーF1~F15
+
+KEY UP					矢印キー「↑」
+KEY DOWN				矢印キー「↓」
+KEY LEFT				矢印キー「←」
+KEY_RIGHT				矢印キー「→」
